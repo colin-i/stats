@@ -1,4 +1,4 @@
 
-#1 year  2 month   optional newproj1 x1 ... newprojN xN
+#same as ~/test/stats/pub
 
 ~/test/stats/pub $@
