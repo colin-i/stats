@@ -1,4 +1,4 @@
 
-#same as ~/test/stats/pub
+#same as ~/test/stats/pub , year month ...
 
 ~/test/stats/pub $@
